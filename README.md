@@ -1,4 +1,4 @@
-![pico-8-shotter-birthday-game-end](https://github.com/apolline-diaz/Pico-8-Shooter-Birthday-Video-Game/assets/146845437/a6c9fe17-e0f6-4ef6-b295-3994190232f8)# Jeu vidéo Pico 8 : Funny Cat Shooter pour un anniversaire !
+Jeu vidéo Pico 8 : Funny Cat Shooter pour un anniversaire !
 
 J'ai créé un jeu vidéo sur Pico 8 dans le genre du shooter pour l'anniversaire d'une amie.
 L'idée était qu'elle réussisse la mission du jeu pour pouvoir découvrir son cadeau.
