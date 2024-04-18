@@ -1,4 +1,4 @@
-# Jeu vidéo Pico 8 : Funny Cat Shooter pour un anniversaire !
+![pico-8-shotter-birthday-game-end](https://github.com/apolline-diaz/Pico-8-Shooter-Birthday-Video-Game/assets/146845437/a6c9fe17-e0f6-4ef6-b295-3994190232f8)# Jeu vidéo Pico 8 : Funny Cat Shooter pour un anniversaire !
 
 J'ai créé un jeu vidéo sur Pico 8 dans le genre du shooter pour l'anniversaire d'une amie.
 L'idée était qu'elle réussisse la mission du jeu pour pouvoir découvrir son cadeau.
@@ -18,6 +18,12 @@ Pour tirer sur les chatons, appuyer aussi sur "X". Chaque tir élimine un chaton
 Vous verrez quand vous atteignez le nombre 27, le jeu est fini, BRAVO!
 Un petit mot de fin vous félicite.
 Et c'est d'ailleurs à ce moment que j'ai remis le cadeau à mon amie.
+
+![pico-8-shotter-birthday-game](https://github.com/apolline-diaz/Pico-8-Shooter-Birthday-Video-Game/assets/146845437/1eb29c89-ab2d-4790-8e33-71b0c3bc21f6)
+
+
+![pico-8-shotter-birthday-game-end](https://github.com/apolline-diaz/Pico-8-Shooter-Birthday-Video-Game/assets/146845437/13d56d09-2d8e-4f26-a859-9a1ee63fb88d)
+
 
 ### Les fonctions
 
