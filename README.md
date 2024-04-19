@@ -1,4 +1,4 @@
-Jeu vidéo Pico 8 : Funny Cat Shooter pour un anniversaire !
+# Jeu vidéo Pico 8 : Funny Cat Shooter pour un anniversaire !
 
 J'ai créé un jeu vidéo sur Pico 8 dans le genre du shooter pour l'anniversaire d'une amie.
 L'idée était qu'elle réussisse la mission du jeu pour pouvoir découvrir son cadeau.
